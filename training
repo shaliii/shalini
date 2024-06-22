@@ -1,5 +1,12 @@
 hii
 day1
-22 june 2024
-saturday	
+22 june 2024 saturday	
+
+class1:
+To install Git on Linux, you can use the appropriate package manager for your distribution. Here are the commands for some popular Linux distributions:
+Ubuntu or Debian-based systems:
+sudo apt update
+sudo apt install git
+Verify the installation by checking the Git version:
+git --version
 
