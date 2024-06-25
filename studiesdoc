@@ -1,0 +1,12 @@
+Syntax
+You have already seen the following code a couple of times in the first chapters. Let's break it down to understand it better:
+
+Example
+#include <stdio.h>
+
+int main() {
+  printf("Hello World!");
+  return 0;
+}
+
+
